@@ -1,2 +1,2 @@
-# Huffman-Encoding-Visualizer
-Huffman visualizer
+# Huffman-Visualizer
+Visualize the huffman encoding.
